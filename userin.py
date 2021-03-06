@@ -1,4 +1,4 @@
-"""num=input('Enter first num :')
+num=input('Enter first num :')
 num2=input('enter 2nd num:')
 sum=float(num)+float(num2)
 print('sumation od num and num2 {2}'.format(num,num2,sum))
@@ -37,6 +37,6 @@ b = True + 10
 print("x is", x)
 print("y is", y)
 print("a:", a)
-print("b:", b)"""
+print("b:", b)
 
         
